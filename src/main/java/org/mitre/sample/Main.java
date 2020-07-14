@@ -23,7 +23,7 @@ public class Main {
     pcm.listAllIds(igs);
 
     // Try loading each ID into the validator, logging IDs that don't work to a file
-    try (FileWriter fw = new FileWriter("incompatible-tx.csv");
+    try (FileWriter fw = new FileWriter("incompatible.csv");
          PrintWriter pw = new PrintWriter(fw, true)) {
       pw.println("package ID,exception,message");
       Set<String> ids = igs.keySet();
