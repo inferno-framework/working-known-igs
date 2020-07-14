@@ -1,0 +1,199 @@
+package ID,exception,message
+PCR.Core.STU3,java.lang.Exception,Unable to find/resolve/read -ig PCR.Core.STU3
+hl7.org.fhir.uv.cdisc-lab,java.io.FileNotFoundException,http://hl7.org/fhir/uv/cdisc-lab/ImplementationGuide/ig/package-list.json
+hl7.fhir.us.sdohcc,java.io.FileNotFoundException,http://hl7.org/fhir/us/ImplementationGuide/SDOH-CC/package-list.json
+dvmd.kdl.stu3.2019,org.hl7.fhir.exceptions.FHIRException,no core dependency or FHIR Version found in the Package definition
+ch.ahdis.ig.cda-fhir-maps,java.io.FileNotFoundException,http://ahdis.ch/ig/cda-fhir-maps/ImplementationGuide/ch.ahdis.ig.cda-fhir-maps/package-list.json
+ihe.PIXm.fhir,java.lang.Exception,Unable to find/resolve/read -ig ihe.PIXm.fhir
+hl7.fhir.bser,java.io.FileNotFoundException,http://hl7.org/fhir/us/bser/ImplementationGuide/bser/package-list.json
+SDOH-CC,java.lang.Exception,Unable to find/resolve/read -ig SDOH-CC
+hl7.fhir.ca.core,java.io.FileNotFoundException,http://hl7.org/fhir/ca/core/ImplementationGuide/cacore/package-list.json
+au.csiro.fhir.au-primarycare,java.io.FileNotFoundException,https://aehrc.com/fhir/ImplementationGuide/au.csiro.fhir.au-primarycare/package-list.json
+ch.fhir.ig.ch-epr-term,com.google.gson.JsonSyntaxException,com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 12 path $
+ihe.fhir.template,org.hl7.fhir.exceptions.FHIRException,no core dependency or FHIR Version found in the Package definition
+ihe.mhd.fhir,com.google.gson.JsonSyntaxException,com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 2 column 2 path $
+hl7.fhir.nz.base,com.google.gson.JsonSyntaxException,com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 2 column 2 path $
+ch.fhir.ig.atc,com.google.gson.JsonSyntaxException,com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 12 path $
+eMERGEClinicalGeneticsReports.FHIRExtensionResources,java.lang.Exception,Unable to find/resolve/read -ig eMERGEClinicalGeneticsReports.FHIRExtensionResources
+cqf.fhir.content.template,java.lang.ClassCastException,class com.google.gson.JsonNull cannot be cast to class com.google.gson.JsonObject (com.google.gson.JsonNull and com.google.gson.JsonObject are in unnamed module of loader 'app')
+ch.fhir.ig.ch-resp,com.google.gson.JsonSyntaxException,com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 12 path $
+hl7.fhir.us.core.r4validator,com.google.gson.JsonSyntaxException,com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 3 column 12 path $
+ncqa.fhir.us.hedis,com.google.gson.JsonSyntaxException,com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 2 column 2 path $
+DevDays2019.Firely.R4.labobservations,java.lang.Exception,Unable to find/resolve/read -ig DevDays2019.Firely.R4.labobservations
+hl7.fhir.us.security-gov-regs,java.io.FileNotFoundException,http://hl7.org/fhir/us/security-gov-regs/ImplementationGuide/hl7.fhir.us.security-gov-regs/package-list.json
+hl7.org.nz.northernregion,com.google.gson.JsonSyntaxException,com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 2 column 2 path $
+private.package.test,java.lang.ClassCastException,class com.google.gson.JsonNull cannot be cast to class com.google.gson.JsonObject (com.google.gson.JsonNull and com.google.gson.JsonObject are in unnamed module of loader 'app')
+CEQSubcriptionNotifications,java.lang.Exception,Unable to find/resolve/read -ig CEQSubcriptionNotifications
+ch.fhir.ig.ch-pmir,com.google.gson.JsonSyntaxException,com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 12 path $
+fhir.tx.support.r4,org.hl7.fhir.exceptions.FHIRException,The package 'hl7.fhir.core.r4' has not entry on the current build server
+caresocial,java.lang.Exception,Unable to find/resolve/read -ig caresocial
+nsw.health.fhir.toc,java.net.UnknownHostException,fhir.health.nsw.gov.au
+hl7.fhirpath,java.io.FileNotFoundException,http://hl7.org/fhirpath/ImplementationGuide/ig/package-list.json
+cqf.fhir.covid,java.io.FileNotFoundException,http://hl7.org/fhir/cqf/igstarter/ImplementationGuide/cqf.fhir.covid/package-list.json
+fhir.tx.support.r2,org.hl7.fhir.exceptions.FHIRException,The package 'hl7.fhir.core.r2' has not entry on the current build server
+fhir.tx.support.r3,org.hl7.fhir.exceptions.FHIRException,The package 'hl7.fhir.core.r3' has not entry on the current build server
+hl7.fhir.template,org.hl7.fhir.exceptions.FHIRException,no core dependency or FHIR Version found in the Package definition
+hl7.fhir.us.draftmeasures,java.io.FileNotFoundException,http://hl7.org/fhir/us/draftmeasures/ImplementationGuide/us-draftmeasures-0.1.0/package-list.json
+hl7.org.fhir.us.womens-health-registries,java.io.FileNotFoundException,http://hl7.org/fhir/us/womens-health-registries/ImplementationGuide/ig/package-list.json
+d3b.kidsfirst.r4,org.hl7.fhir.exceptions.FHIRException,no core dependency or FHIR Version found in the Package definition
+test.my.first.package,org.hl7.fhir.exceptions.FHIRException,no core dependency or FHIR Version found in the Package definition
+FHIRDevDaysPackage.Test,java.lang.Exception,Unable to find/resolve/read -ig FHIRDevDaysPackage.Test
+hl7.fhir.us.davinci-crd,java.io.IOException,Attempt to import a mis-identified package. Expected hl7.fhir.us.core.r4 got hl7.fhir.us.core
+ch.ahdis.ig.template,java.io.FileNotFoundException,http://ahdis.ch/ig/template/package-list.json
+fhir.us.security-gov-regs,java.io.FileNotFoundException,http://hl7.org/fhir/us/security-gov-regs/ImplementationGuide/fhir.us.security-gov-regs/package-list.json
+CMS.FHIR,java.lang.Exception,Unable to find/resolve/read -ig CMS.FHIR
+hl7.fhir.us.davinci-deqm.stu3,java.io.FileNotFoundException,http://hl7.org/fhir/us/davinci-deqm/STU3/ImplementationGuide/hl7.fhir.us.davinci-deqm.stu3-0.2.0/package-list.json
+fhir.cdc.opioid-cds-r4,java.io.FileNotFoundException,http://fhir.org/guides/cdc/opioid-cds/ImplementationGuide/opioid-cds-r4/package-list.json
+fhir.who.core,java.io.FileNotFoundException,http://fhir.org/guides/who/core/ImplementationGuide/fhir.who.core/package-list.json
+hl7.fhir.uv.v2-tofhir,java.io.FileNotFoundException,http://hl7.org/fhir/v2-tofhir/ImplementationGuide/hl7.fhir.uv.v2-tofhir/package-list.json
+MySimplifierProject.core,java.lang.Exception,Unable to find/resolve/read -ig MySimplifierProject.core
+ch.fhir.ig.ch-core,com.google.gson.JsonSyntaxException,com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 12 path $
+cqf.fhir.hedis.r4,java.io.FileNotFoundException,http://hl7.org/fhir/cqf/hedis-ig-r4/ImplementationGuide/cqf.fhir.hedis.r4/package-list.json
+cqf.fhir.cvd19,java.io.FileNotFoundException,http://fhir.org/guides/cqf/cvd19/ImplementationGuide/cqf.fhir.cvd19/package-list.json
+hl7.fhir.us.dentalreferral,java.io.FileNotFoundException,http://hl7.org/fhir/us/dentalreferral/package-list.json
+hl7.fhir.us.phcp,org.hl7.fhir.exceptions.FHIRException,The package 'hl7.fhir.us.ccda.r4' has not entry on the current build server
+hl7.fhir.us.davinci-drug-formulary,java.io.IOException,Attempt to import a mis-identified package. Expected hl7.fhir.us.davinci-drug-formulary got hl7.fhir.us.Davinci-drug-formulary
+MySimplifier.Project,java.lang.Exception,Unable to find/resolve/read -ig MySimplifier.Project
+us-cqfmeasures,java.lang.Exception,Unable to find/resolve/read -ig us-cqfmeasures
+hl7.cda.template,java.lang.ClassCastException,class com.google.gson.JsonNull cannot be cast to class com.google.gson.JsonObject (com.google.gson.JsonNull and com.google.gson.JsonObject are in unnamed module of loader 'app')
+CCDA-on-FHIR-npm,java.lang.Exception,Unable to find/resolve/read -ig CCDA-on-FHIR-npm
+hl7.be.fhir.riziv.summary,com.google.gson.JsonSyntaxException,com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 2 column 2 path $
+fhir.base.template,org.hl7.fhir.exceptions.FHIRException,no core dependency or FHIR Version found in the Package definition
+hl7.fhir.nz.northernregion,com.google.gson.JsonSyntaxException,com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 2 column 2 path $
+SUPPORT.R4,java.lang.Exception,Unable to find/resolve/read -ig SUPPORT.R4
+ncqa.fhir.hedis,com.google.gson.JsonSyntaxException,com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 2 column 2 path $
+hl7.fhir.nz.hpi,com.google.gson.JsonSyntaxException,com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 2 column 2 path $
+careconnect.messaging.r4,java.io.FileNotFoundException,https://project-wildfyre.github.io/careconnect-messaging-r4/ImplementationGuide/careconnect-messaging-r4/package-list.json
+fhir.test.template,java.lang.ClassCastException,class com.google.gson.JsonNull cannot be cast to class com.google.gson.JsonObject (com.google.gson.JsonNull and com.google.gson.JsonObject are in unnamed module of loader 'app')
+ch.fhir.ig.ch-orf,com.google.gson.JsonSyntaxException,com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 12 path $
+Demo.Regional.PatientCare,java.lang.Exception,Unable to find/resolve/read -ig Demo.Regional.PatientCare
+fhir.us.mcode,com.google.gson.JsonSyntaxException,com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 3 column 12 path $
+HL7Norway.STU3.no.basis,java.lang.Exception,Unable to find/resolve/read -ig HL7Norway.STU3.no.basis
+Demo.National.PatientCare,java.lang.Exception,Unable to find/resolve/read -ig Demo.National.PatientCare
+fhir.lcs.lcs-cds,java.lang.ClassCastException,class com.google.gson.JsonNull cannot be cast to class com.google.gson.JsonObject (com.google.gson.JsonNull and com.google.gson.JsonObject are in unnamed module of loader 'app')
+auw.dummy,org.hl7.fhir.exceptions.FHIRException,no core dependency or FHIR Version found in the Package definition
+ihe.fhir.pharm.mma,com.google.gson.JsonSyntaxException,com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 2 column 2 path $
+example.fhir.uv.mycontentig,java.io.FileNotFoundException,http://somewhere.org/fhir/uv/mycontentig/ImplementationGuide/example.fhir.uv.mycontentig/package-list.json
+ihe.fhir.pharm.supply,com.google.gson.JsonSyntaxException,com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 2 column 2 path $
+ch.fhir.ig.ch-ems,com.google.gson.JsonSyntaxException,com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 12 path $
+hl7.utg.template,java.lang.ClassCastException,class com.google.gson.JsonNull cannot be cast to class com.google.gson.JsonObject (com.google.gson.JsonNull and com.google.gson.JsonObject are in unnamed module of loader 'app')
+hl7.fhir.us.birthdefectreporting,java.io.FileNotFoundException,http://hl7.org/fhir/us/birthdefectreporting/ImplementationGuide/hl7.fhir.us.birthdefectreporting/package-list.json
+Test.20171242,java.lang.Exception,Unable to find/resolve/read -ig Test.20171242
+ch.fhir.ig.template,com.google.gson.JsonSyntaxException,com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 12 path $
+hl7.fhir.uv.snomed,java.io.FileNotFoundException,http://snomed.info/fhir/ImplementationGuide/ig/package-list.json
+aehrc.com.primarycare,com.google.gson.JsonSyntaxException,com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 12 path $
+hl7.fhir.us.Davinci-drug-formulary,java.lang.Exception,Unable to find/resolve/read -ig hl7.fhir.us.Davinci-drug-formulary
+ch.fhir.ig.ch-lab-order,com.google.gson.JsonSyntaxException,com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 12 path $
+Test.20171208,java.lang.Exception,Unable to find/resolve/read -ig Test.20171208
+UWearMe.ValueSet,java.lang.Exception,Unable to find/resolve/read -ig UWearMe.ValueSet
+Maurizio.Package,java.lang.Exception,Unable to find/resolve/read -ig Maurizio.Package
+hl7.fhir.smart-web-messaging,java.io.FileNotFoundException,https://hl7.org/fhir/smart-web-messaging/ImplementationGuide/hl7.fhir.smart-web-messaging/package-list.json
+hl7.fhir.uv.ipa,java.io.FileNotFoundException,http://hl7.org/fhir/uv/ipa/ImplementationGuide/ipa/package-list.json
+hl7.cda.us.ccda,java.io.FileNotFoundException,http://hl7.org/fhir/cda/ccda/ImplementationGuide/cda-ccda/package-list.json
+PGO.02,java.lang.Exception,Unable to find/resolve/read -ig PGO.02
+hl7.country.fhir.ig,java.net.UnknownHostException,hl7.country.org
+hl7.fhir.terminology,com.google.gson.JsonSyntaxException,com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 2 column 2 path $
+hl7.fhir.us.woundassessment,java.io.FileNotFoundException,http://hl7.org/fhir/hspc/ImplementationGuide/woundAssessment/package-list.json
+ch.fhir.ig.core,com.google.gson.JsonSyntaxException,com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 12 path $
+TestProjekt2.test,java.lang.Exception,Unable to find/resolve/read -ig TestProjekt2.test
+testontwikkel.package,org.hl7.fhir.exceptions.FHIRException,no core dependency or FHIR Version found in the Package definition
+fhir.who.fp-cds,java.io.FileNotFoundException,http://fhir.org/guides/who/fp-cds/ImplementationGuide/fhir.who.fp-cds/package-list.json
+hl7.fhir.us.pq-cmc,java.io.FileNotFoundException,http://hl7.org/fhir/pq-cmc/ImplementationGuide/hl7.fhir.us.pq-cmc/package-list.json
+hl7.au.base.template,org.hl7.fhir.exceptions.FHIRException,Package ids do not match in http://fhir.org/templates/hl7.base.template/package-list.json: hl7.au.base.template vs hl7.base.template
+hl7.fhir.nz.nhi,com.google.gson.JsonSyntaxException,com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 2 column 2 path $
+SliceBugTest,java.lang.Exception,Unable to find/resolve/read -ig SliceBugTest
+hl7.fhir.uv.med-list-guidance,java.io.FileNotFoundException,http://hl7.org/fhir/uv/med-list-guidance/ImplementationGuide/hl7.fhir.uv.med-list-guidance/package-list.json
+careconnect.messaging.stu3,java.io.FileNotFoundException,https://kevinmayfield.github.io/careconnect-api-stu3/ImplementationGuide/careconnect-messaging-stu3/package-list.json
+ch.fhir.ig.cda-fhir-maps,com.google.gson.JsonSyntaxException,com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 12 path $
+ehealthplatform.be.r4.federalprofiles,org.hl7.fhir.exceptions.FHIRException,no core dependency or FHIR Version found in the Package definition
+MyDemoProject.core,java.lang.Exception,Unable to find/resolve/read -ig MyDemoProject.core
+hl7.fhir.us.bfdr,java.io.FileNotFoundException,http://hl7.org/fhir/us/bfdr/ImplementationGuide/hl7-fhir-us-bfdr/package-list.json
+icare,java.lang.Exception,Unable to find/resolve/read -ig icare
+ihe.formatcode.fhir,com.google.gson.JsonSyntaxException,com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 2 column 2 path $
+hl7.fhir.us.core.r4,com.google.gson.JsonSyntaxException,com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 3 column 12 path $
+Furoretestproject,java.lang.Exception,Unable to find/resolve/read -ig Furoretestproject
+harmoniq.fhir.cds.diabetes,java.lang.ClassCastException,class com.google.gson.JsonNull cannot be cast to class com.google.gson.JsonObject (com.google.gson.JsonNull and com.google.gson.JsonObject are in unnamed module of loader 'app')
+PhCP-npm,java.lang.Exception,Unable to find/resolve/read -ig PhCP-npm
+careconnect.api.r4,java.io.FileNotFoundException,https://project-wildfyre.github.io/careconnect-api-r4/ImplementationGuide/careconnect-api-r4/package-list.json
+hl7.fhir.uv.order-catalog,java.io.FileNotFoundException,http://hl7.org/fhir/uv/order-catalog/ImplementationGuide/ig-uv-order-catalog/package-list.json
+dk.fhir.ig.dk-medcom-core,com.google.gson.JsonSyntaxException,com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 12 path $
+UKKoeln.nNGM.RegistrationForm.IG,java.lang.Exception,Unable to find/resolve/read -ig UKKoeln.nNGM.RegistrationForm.IG
+cqf.fhir.template,java.io.FileNotFoundException,http://fhir.org/templates/cqf.fhir.template/package-list.json
+hl7.be.fhir.template,java.lang.ClassCastException,class com.google.gson.JsonNull cannot be cast to class com.google.gson.JsonObject (com.google.gson.JsonNull and com.google.gson.JsonObject are in unnamed module of loader 'app')
+hl7.fhir.core,org.hl7.fhir.exceptions.FHIRException,Unable to resolve package id hl7.fhir.r3.examples#4.0.1
+eReferralOntario.core,java.lang.Exception,Unable to find/resolve/read -ig eReferralOntario.core
+careconnect.base.stu3,java.io.FileNotFoundException,https://fhir.hl7.org.uk/STU3/ImplementationGuide/Careconnect-Base/package-list.json
+healthedata.fhir.template,java.io.FileNotFoundException,http://www.fhir.org/guides/test4/package-list.json
+ch.mediplan.chmed20af,com.google.gson.JsonSyntaxException,com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 12 path $
+hl7.fhir.smart,java.io.FileNotFoundException,http://fhir-registry.smarthealthit.org/ImplementationGuide/ig/package-list.json
+careconnect.api.stu3,java.io.FileNotFoundException,https://kevinmayfield.github.io/careconnect-api-stu3/ImplementationGuide/careconnect-api-stu3/package-list.json
+testprojekt.sl.r4,org.hl7.fhir.exceptions.FHIRException,no core dependency or FHIR Version found in the Package definition
+ainq.fhir.us.saner,com.google.gson.JsonSyntaxException,com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 2 column 2 path $
+dev.cihub.ClinicalSite.org,java.lang.Exception,Unable to find/resolve/read -ig dev.cihub.ClinicalSite.org
+ch.fhir.ig.ch-pixm,com.google.gson.JsonSyntaxException,com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 12 path $
+aws.dummy,org.hl7.fhir.exceptions.FHIRException,no core dependency or FHIR Version found in the Package definition
+hl7.fhir.uv.howto,java.io.FileNotFoundException,http://hl7.org/fhir/uv/howto/ImplementationGuide/hl7.fhir.uv.howto/package-list.json
+ch.mediplan.chmed16af,java.io.FileNotFoundException,http://chmed16af.emediplan.ch/fhir/ImplementationGuide/ch.chmed16af.emediplan-0.2.0/package-list.json
+testontwikkelz.package,org.hl7.fhir.exceptions.FHIRException,no core dependency or FHIR Version found in the Package definition
+hl7.fhir.au.argonaut,java.io.FileNotFoundException,http://hl7.org.au/fhir/argonaut/ImplementationGuide/ig/package-list.json
+uec-raphael-stu3,java.lang.Exception,Unable to find/resolve/read -ig uec-raphael-stu3
+ch.chmed20af.emediplan,com.google.gson.JsonSyntaxException,com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 12 path $
+SUPPORTR4.test,java.lang.Exception,Unable to find/resolve/read -ig SUPPORTR4.test
+kbv.fhir.vos,org.hl7.fhir.exceptions.FHIRException,no core dependency or FHIR Version found in the Package definition
+hl7.fhir.us.nhsn.ltc,com.google.gson.JsonSyntaxException,com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 3 column 12 path $
+MyProject9.r4de,java.lang.Exception,Unable to find/resolve/read -ig MyProject9.r4de
+hl7.fhir.au.primarycare,java.io.FileNotFoundException,http://hl7.org.au/fhir/ImplementationGuide/primary-care/package-list.json
+hl7.fhir.militaryserviceandstatus,java.io.FileNotFoundException,http://hl7.org/fhir/militaryserviceandstatus/ImplementationGuide/hl7.fhir.militaryserviceandstatus/package-list.json
+hl7.fhir.us.saner,java.io.FileNotFoundException,http://hl7.org/fhir/us/saner/ImplementationGuide/hl7.fhir.us.saner/package-list.json
+hl7.be.fhir.core,java.io.FileNotFoundException,https://www.hl7belgium.org/fhir/ImplementationGuide/hl7.be.fhir.core/package-list.json
+hl7.be.core,java.io.FileNotFoundException,https://www.hl7belgium.org/fhir/ImplementationGuide/be.base.ig/package-list.json
+example.fhir.uv.ihe-supplement,com.google.gson.JsonSyntaxException,com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 2 column 2 path $
+pacio,java.lang.Exception,Unable to find/resolve/read -ig pacio
+hl7.au.fhir.template,org.hl7.fhir.exceptions.FHIRException,no core dependency or FHIR Version found in the Package definition
+ch.fhir.ig.ch-atc,com.google.gson.JsonSyntaxException,com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 12 path $
+ch.fhir.ig.ch-epr-mhealth,com.google.gson.JsonSyntaxException,com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 12 path $
+hl7.fhir.cda,java.io.FileNotFoundException,http://hl7.org/fhir/cda/ImplementationGuide/cda-ig/package-list.json
+fed.be.core,com.google.gson.JsonSyntaxException,com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 12 path $
+hl7.fhir.us.vitalsigns,java.io.FileNotFoundException,http://hl7.org/fhir/hspc/ImplementationGuide/vitalsigns/package-list.json
+ihe.fhir.uv.dcp,com.google.gson.JsonSyntaxException,com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 2 column 2 path $
+ch.fhir.ig.ch-crl,com.google.gson.JsonSyntaxException,com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 12 path $
+hl7.fhir.au.ncdhc,java.io.FileNotFoundException,http://hl7.org.au/fhir/ch/v1/ImplementationGuide/ncdhc/package-list.json
+pacio-cs,java.lang.Exception,Unable to find/resolve/read -ig pacio-cs
+cihi.irrs,java.io.IOException,Error parsing http://packages.fhir.org/cihi.irrs/1.0.0#package/package.json: null
+dev.cihub.CancerCareRecord,java.lang.Exception,Unable to find/resolve/read -ig dev.cihub.CancerCareRecord
+hl7fhir.cn.core.r4,java.io.FileNotFoundException,https://www.hl7fhir.cn/ig/CN-Core-R4/package-list.json
+fhir.cdc.opioid-cds,java.io.FileNotFoundException,http://fhir.org/guides/cdc/opioid-cds/ImplementationGuide/opioid-cds/package-list.json
+ch.fhir.ig.covid-19-prom,com.google.gson.JsonSyntaxException,com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 12 path $
+argonaut.us.clinicalnotes,java.io.FileNotFoundException,http://fhir.org/guides/argonaut/clinicalnotes/ImplementationGuide/argonaut.us.clinicalnotes-1.0.0/package-list.json
+cihi.irrs.pkg,java.io.IOException,Error parsing http://packages.fhir.org/cihi.irrs.pkg/1.0.0#package/package.json: null
+IHE-ACDC-Profile,java.lang.Exception,Unable to find/resolve/read -ig IHE-ACDC-Profile
+hl7.davinci.template,java.lang.ClassCastException,class com.google.gson.JsonNull cannot be cast to class com.google.gson.JsonObject (com.google.gson.JsonNull and com.google.gson.JsonObject are in unnamed module of loader 'app')
+hl7.fhir.us.ImmunizationFHIRDS,java.lang.Exception,Unable to find/resolve/read -ig hl7.fhir.us.ImmunizationFHIRDS
+ch.fhir.ig.ch-ig,com.google.gson.JsonSyntaxException,com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 12 path $
+healthedatainc.davinci,java.io.FileNotFoundException,http://hl7.org/fhir/ig/davinci/ImplementationGuide/ig/package-list.json
+hl7.fhir.r4.elements,java.io.IOException,Unable to find the file package/StructureDefinition-de-TestScript.destination.index.json in the package hl7.fhir.r4.elements
+ch.fhir.ig.epr,com.google.gson.JsonSyntaxException,com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 12 path $
+example.fhir.uv.myig,java.io.FileNotFoundException,http://somewhere.org/fhir/uv/myig/ImplementationGuide/example.fhir.uv.myig/package-list.json
+fhir.who.anc-cds,java.io.FileNotFoundException,http://fhir.org/guides/who/anc-cds/ImplementationGuide/anc-cds/package-list.json
+hl7.fhir.us.lower-extremity-skin-wound-assessment,java.io.FileNotFoundException,http://hl7.org/fhir/us/lower-extremity-skin-wound-assessment/ImplementationGuide/lower-extremity-skin-wound-assessment/package-list.json
+hl7.base.template,org.hl7.fhir.exceptions.FHIRException,no core dependency or FHIR Version found in the Package definition
+hl7.org.fhir.us.cdl,java.io.FileNotFoundException,http://hl7.org/fhir/us/cdl/ImplementationGuide/ig/package-list.json
+FHIRExtensions.ex,java.lang.Exception,Unable to find/resolve/read -ig FHIRExtensions.ex
+uk.testcore.r4,java.io.IOException,Server returned HTTP response code: 500 for URL: https://fhir.nhs.uk/R4/ImplementationGuide/nhsdigital-fhir-r4-core-prototype/package-list.json
+hl7.fhir.us.sirb,java.io.FileNotFoundException,http://hl7.org/fhir/us/sirb/ImplementationGuide/hl7.fhir.us.sirb/package-list.json
+hl7.fhir.us.cdcacg,java.io.FileNotFoundException,http://hl7.org/fhir/ig/cdc-acg/ImplementationGuide/cdc-acg/package-list.json
+ch.fhir.ig.ch-emed,com.google.gson.JsonSyntaxException,com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 12 path $
+fhir.who.sti-cds,java.io.FileNotFoundException,http://fhir.org/guides/who/sti-cds/ImplementationGuide/fhir.who.sti-cds/package-list.json
+irrs.pkg,java.io.IOException,Error parsing http://packages.fhir.org/irrs.pkg/1.0.0#package/package.json: null
+cqf.opioidcds.fhir.template,java.io.FileNotFoundException,http://fhir.org/templates/cqf.opioidcds.fhir.template/package-list.json
+ch.fhir.ig.ch-mhd,com.google.gson.JsonSyntaxException,com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 12 path $
+dummy.first,org.hl7.fhir.exceptions.FHIRException,no core dependency or FHIR Version found in the Package definition
+hl7.fhir.us.core.argo,com.google.gson.JsonSyntaxException,com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 3 column 12 path $
+SDOH-Clinical-Care,java.lang.Exception,Unable to find/resolve/read -ig SDOH-Clinical-Care
+davinci-pdex,java.lang.Exception,Unable to find/resolve/read -ig davinci-pdex
+gefyra.sandbox,org.hl7.fhir.exceptions.FHIRException,no core dependency or FHIR Version found in the Package definition
+who.fhir.template,java.lang.ClassCastException,class com.google.gson.JsonNull cannot be cast to class com.google.gson.JsonObject (com.google.gson.JsonNull and com.google.gson.JsonObject are in unnamed module of loader 'app')
+MyDemo.core,java.lang.Exception,Unable to find/resolve/read -ig MyDemo.core
+hl7.cql,com.google.gson.JsonSyntaxException,com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 2 column 2 path $
+ProvincialClientRegi.core,java.lang.Exception,Unable to find/resolve/read -ig ProvincialClientRegi.core
+hl7.fhir.us.specialty-rx,java.io.FileNotFoundException,http://hl7.org/fhir/us/ncpdp/ImplementationGuide/specialty-rx/package-list.json
