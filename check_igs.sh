@@ -7,7 +7,7 @@ OUTPUT=desktop_incompatible.txt
 
 cat /dev/null > "$OUTPUT"
 
-cat "$FILE" | awk -F',' 'NR > 1 {print $1}' |
+awk -F',' 'NR > 1 {print $1}' "$FILE" |
   while read -r id; do
     java -jar "$VALIDATOR_JAR" -ig "$id" "$INPUT"
     exit_status=$?
